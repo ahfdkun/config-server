@@ -4,4 +4,4 @@ encrypt:
     location: config-server.keystore
     alias: config-server
     password: ahfdkun
-    secret: ahfdkun   
+    secret: ahfdkun
